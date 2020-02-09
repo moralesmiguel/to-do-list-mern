@@ -1,0 +1,174 @@
+body{
+  margin: 15px;
+  background-image: url("./img/cleaningdoodlesbackground.jpg");
+}
+
+.main-card {
+  text-align: center;
+  vertical-align: middle;
+  margin: 0 auto;
+  float: none;
+  margin-bottom: 10px;
+}
+
+.admin-dropdown {
+  position: fixed;
+  right: 0;
+  top: 15px;
+}
+
+.image-cat {
+  border-radius: 20%;
+  display: block;
+  margin: 0 auto;
+  height: 500px;
+  border: 5px solid #ddd;
+}
+/*Heading Styling*/
+h1{
+  text-shadow: 3px 3px #ddd;
+  font-size: 43px;
+}
+
+/*Sign out Styling*/
+.fa-sign-out-alt{
+  color: red;
+  vertical-align: middle;
+}
+
+.logout-text{
+  font-size: 24px;
+  text-shadow: 3px 3px 5px rgb(17, 0, 0);
+  color: red;
+}
+
+.container {
+  margin: 0 auto;
+  background: white;
+  width: 500px;
+  border-radius: 10px;
+  border: 2px solid #ddd;
+  padding-bottom: 10px;
+}
+
+/*Signup Button Styling*/
+.signup-button{
+  border-radius: 8px;
+  border: 2px solid #003e7c;
+  background-color: #0079f1;
+  color: white;
+  padding: 5px 5px;
+  font-size: 20px;
+  margin-top: 5px;
+}
+
+.signup-button:hover{
+  background-color: #3b9dff;
+  cursor: pointer;
+}
+
+/*Register Button Styling*/
+.register-button{
+  border-radius: 8px;
+  border: 2px solid #003e7c;
+  background-color: #0079f1;
+  color: white;
+  padding: 5px 5px;
+  font-size: 20px;
+  margin-right: 5px;
+}
+
+.register-button:hover{
+  background-color: #3b9dff;
+  cursor: pointer;
+}
+
+/*Login Styling*/
+.login-button{
+  border-radius: 8px;
+  border: 2px solid #188a02;
+  background-color: #24d102;
+  color: white;
+  padding: 5px 5px;
+  font-size: 20px;
+}
+
+.login-section {
+  margin: 0 auto;
+  background: white;
+  width: 500px;
+  border-radius: 10px;
+  border: 2px solid #ddd;
+  padding-bottom: 10px;
+}
+
+.login-button:hover{
+  background-color: #29df05;
+  cursor: pointer;
+}
+
+/*Misc Styling*/
+.field-label{
+  margin-left: 5px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 20px;
+}
+
+p, h4 {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/*Add Form Styling*/
+.addTaskButton{
+  font-size: 24px;
+  text-shadow: 3px 3px 5px rgb(17, 0, 0);
+  color: rgb(0, 202, 17);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: 800;
+  display: inline-block;
+}
+
+.addTaskButton:hover{
+  font-size: 24px;
+  text-shadow: 3px 3px 5px rgb(255, 255, 255);
+  color: rgb(21, 255, 40);
+  font-weight: 800;
+}
+
+.fa-calendar-plus{
+  color: rgb(0, 202, 17);
+  vertical-align: middle;
+  margin-left: 5px;
+}
+
+.add-label{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 24px;
+  text-shadow: 3px 3px 5px rgb(0, 0, 0);
+  background: white;
+  margin-right: 2px;
+  border-radius: 8px;
+}
+
+.list-container{
+	position: relative;
+	left: -30%;
+	float: right;
+}
+
+/*Delete Form Styling*/
+.deleteTaskButton{
+  color: rgb(231, 8, 8);
+  float: right;
+}
+
+.list-block{
+  margin: 0 auto;
+  width: 400px;
+}
+
+.indication-text {
+  font-size: 12px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: rgb(128, 128, 128);
+}
