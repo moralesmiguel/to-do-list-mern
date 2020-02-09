@@ -1,7 +1,17 @@
 # MERN To-Do List
 
-##Landing Page
+## Landing Page
 ![landingpage](https://user-images.githubusercontent.com/51275356/74095252-e6342580-4ab3-11ea-8852-1b28d5ff1ce7.JPG)
+
+## Login Menu
+![Login](https://user-images.githubusercontent.com/51275356/74095282-2d221b00-4ab4-11ea-9caa-4a0058b3ec8b.JPG)
+
+## Register Menu
+![Register](https://user-images.githubusercontent.com/51275356/74095284-41661800-4ab4-11ea-998c-50be79f3ebee.JPG)
+
+## Admin Panel
+Admin can see other user's to-do list and create one for himself.
+![adminPanel](https://user-images.githubusercontent.com/51275356/74095292-504cca80-4ab4-11ea-83de-403861089b36.JPG)
 
 ## Installation
 How to install and access on local machine:
@@ -16,7 +26,9 @@ How to install and access on local machine:
 
 4. Open your browser (either Chrome or Firefox preferably) and navigate to the localhost (http://localhost:3000).
 
-5. Enjoy the APP.
+5. You must create your own key.js
+
+6. Enjoy the APP.
 
 ## Use
 
