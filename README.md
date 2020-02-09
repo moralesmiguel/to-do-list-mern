@@ -1,5 +1,8 @@
 # MERN To-Do List
 
+##Landing Page
+![landingpage](https://user-images.githubusercontent.com/51275356/74095252-e6342580-4ab3-11ea-8852-1b28d5ff1ce7.JPG)
+
 ## Installation
 How to install and access on local machine:
 
